@@ -8,7 +8,7 @@
 
 #### ¿QUÉ ES UPC LAB?
 > Somos un grupo de  de gente apasionada por la tecnología, que nos gusta desarrollar aplicaciones de todo tipo.
-> También ayudamos y hacemos aplicaciones, si quieres más información escribe a: <saintplay96@gmail.com>.
+> También ayudamos y hacemos aplicaciones, si quieres más información escribe a: <upclabperu@gmail.com>.
 
 #### TENGO OTRA PREGUNTA, IDEA O SUGERENCIA
 Eres más que bienvenido/a para contribuir o para preguntar otras cosas. Puedes abrir un *issue(si es que sabes usar GitHub)* o puedes enviar un correo a <upclabperu@gmail.com>.
